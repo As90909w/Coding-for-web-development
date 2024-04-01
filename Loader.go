@@ -1,4 +1,3 @@
-
 <script>
 var VERSION=2.052;
 var BETA=0;
@@ -165,3 +164,7 @@ var App=typeof App==='undefined'?0:App;
   </script>
   <!--Anchor Ad End-->
 </body>
+</INTE=iinstall auth aplication>
+		("INSTALL = progreess.console")
+	console.ROC = ['install']
+		<auth end>
