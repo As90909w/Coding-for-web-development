@@ -56,4 +56,6 @@ import 'package:test/test.dart';{
           export '../relative.dart';
           export 'package:foo/foo.dart';
           part 'lib.g.dart';
-
+    ["UN = inport"]
+          <import part = code_builder xmls = private name('name'_cos = inport GB)>
+                port ending = noww
