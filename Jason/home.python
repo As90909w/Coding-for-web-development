@@ -1,21 +1,7 @@
-/*
-Hello epic hacker (maybe skid) you are looking at one of the many scripts that powers the site,
-this script has extra comments and info to help you understand what is going on.
-
-This is a JavaScript code that generates random splash messages and sets them in the DOM.
-
-The code declares two variables for caching splash messages, "splashCacheAll" and "splashCache".
-
-The "randomSay" function fetches a set of splash messages and selects a random one from the set,
-caching the remaining messages in the "splashCache" variable.
-
-If the selected message contains special placeholders like "%REAL_IP%", "%GAMES_NUMBER%", or "%SPLASH_NUMBER%",
-the placeholders are replaced with corresponding values, such as the user's IP address, the number of available games,
-or the total number of splash messages. The "setRandomSay" function sets the selected splash message in the DOM.
-
-If there is an element with class "message", the "setRandomSay" function is called to set a random splash message in the DOM.
+DECLAas "message", the "setRandomSay" function is called to set a random splash message in the DOM.
 */
-
+    ("install pacckage")
+  ['get colab. insyall=w9widhdiu3u28e729e098093.com/ewo203u293-uijs-w28u739;pull_mde=true223%isj']
 // Declare variables for caching splash messages
 var splashCacheAll;
 var splashCache;
