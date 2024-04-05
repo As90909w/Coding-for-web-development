@@ -1,8 +1,3 @@
-This code is also for wb audio, wb games, and etc stuff.
+Use this repository site to create, elaborate, and c# coding.
 
-DO NOT USE THIS CODE IT WILL NOT WORK
-
-<Jac=inport_aasiwo2029>
-  ["secn=2o.djava"]
-
-  Based on https://www.screenprank.com
+visit: https://gradle.org/
