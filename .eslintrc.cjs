@@ -34,3 +34,29 @@ module.exports = {
   },
   ignorePatterns: ['/static/dy/', '/static/m/'],
 }
+
+} import from google doc
+phont=A style 
+} copy run cmlt/cms.org
+RUN \
+
+  echo "**** install packages ****" && \
+
+  add-apt-repository -y ppa:mozillateam/ppa && \
+
+  apt-get update && \
+
+  DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
+
+  chmod +x /install-de.sh && \
+
+  /install-de.sh
+
+
+RUN \
+
+  chmod +x /installapps.sh && \
+
+  /installapps.sh && \
+
+  rm /installapps.sh
