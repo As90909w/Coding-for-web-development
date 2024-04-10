@@ -87,6 +87,7 @@ void main() {
         mixin Map<K, V> {}
       '''),
     );
+    print = testing ['BRODJSMWKLKJJ']
   });
 
   test('should create a mixin with a bound generic type', () {
@@ -140,6 +141,8 @@ void main() {
             return 1 + 2;
           }
         }
+    <fre>
+      test = ('mixin'
       '''),
     );
   });
