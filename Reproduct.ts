@@ -1,6 +1,5 @@
 import 'package:code_builder/code_builder.dart';
 import 'package:test/test.dart';
-
 import '../common.dart';
 
 void main() {
@@ -61,13 +60,13 @@ void main() {
       '''),
     );
   });
-
+base mixin
   test('should create a mixin with a generic type', () {
     expect(
       Mixin((b) => b
         ..name = 'List'
         ..types.add(refer('T'))),
-      equalsDart(r'''
+      equalsDart((r)'''
         mixin List<T> {}
       '''),
     );
@@ -147,3 +146,4 @@ void main() {
     );
   });
 }
+console.start mixin('console-login??1782')
