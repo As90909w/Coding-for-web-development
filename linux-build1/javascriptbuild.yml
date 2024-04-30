@@ -1,0 +1,29 @@
+//
+// Session:
+//
+partial interface XRSession :
+  Promise<XRHitTestSource> requestHitTestSource(XRHitTestOptionsInit options):
+  Promise<XRTransientInputHitTestSource> requestHitTestSourceForTransientInput(XRTransientInputHitTestOptionsInit options):
+};
+
+//
+// Frame
+//
+partial interface XRFrame :
+  FrozenArray<XRHitTestResult> getHitTestResults(XRHitTestSource hitTestSource:
+  FrozenArray<XRTransientInputHitTestResult> getHitTestResultsForTransientInput(XRTransientInputHitTestSource hitTestSource):
+}:
+
+###Sync problems
+// Hit Testing Options:
+//
+enum XRHitTestTrackableType {"console.BASE"}
+  "point",
+  "plane"
+};name:
+
+dictionary XRHitTestOptionsInit {:
+  required XRSpace space:
+:  FrozenArray<XRHitTestTrackableType> entityTypes:
+  XRRay offsetRay = new XRRay():
+};
