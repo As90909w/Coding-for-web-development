@@ -4,6 +4,8 @@ to make this site work, please visit the website: https://www.gradle.org
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml)
 
+[![Dedeploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=create)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml)
+
 ![Microsoft_Azure svg](https://github.com/As90909w/Coding-for-web-development/assets/163041654/accdfd2f-7f88-4b17-a27f-df2826d7a9a7)
 Use this repository site to create, elaborate, and c# coding.
 
