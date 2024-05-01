@@ -16,7 +16,7 @@ Use this repository site to create, elaborate, and c# coding.
 
 visit: https://gradle.org/
 
-<p>HI Now fork this repository so you can use it to create stuff! And DONT FORGET TO STAR THIS!</p>
+HI Now fork this repository so you can use it to create stuff! And DONT FORGET TO STAR THIS!
 
           
          
