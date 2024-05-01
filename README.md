@@ -1,7 +1,6 @@
 to make this site work, please visit the website: https://www.gradle.org
 
-[![Deploy static content to Pages](https://github.com/As90909w/Coding-for-web-development/actions/workflows/static.yml/badge.svg?
-branch=main)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/static.yml)
+
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml)
 
