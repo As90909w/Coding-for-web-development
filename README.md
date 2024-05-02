@@ -7,6 +7,7 @@ to make this site work, please visit the website: https://www.gradle.org
 [![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)
 
 [![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
+
 ![GitHub Repo size](https://img.shields.io/github/repo-size/3kh0/3kh0-lite?style=flat&label=Repo%20size)
 
 ![GitHub Repo stars Goal](https://img.shields.io/github/stars/3kh0/3kh0-lite?style=flat&label=Repo%20stars&color=yellow&link=https%3A%2F%2Fgithub.com%2F3kh0%2F3kh0-lite%2Fstargazers)
