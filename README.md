@@ -6,7 +6,7 @@ to make this site work, please visit the website: https://www.gradle.org
 
 [![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)
 
-[![Deploy static content to Pages](https://github.com/As90909w/Coding-for-web-development/actions/workflows/static.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/static.yml)
+[![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)
 
 [![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
 [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](https://flutter-dashboard.appspot.com/#/build?repo=flutter)
