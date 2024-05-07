@@ -1,0 +1,25 @@
+name: Android CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: set up Andrews coding
+    - uses: actions/setup-java@v3
+      with:
+        dockerfile-version: '11'
+        distribution: 'temurin'
+        cache: none
+
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+    - name: Build with Gradle
+      run: ./gradlew cancel run
