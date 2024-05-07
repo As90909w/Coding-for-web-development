@@ -1,0 +1,19 @@
+- name: Azure Log
+              - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+                          - name: Azure Login
+                uses: Azure/login@v2.1.0
+            uses: Azure/login@v2.1.0
+            
