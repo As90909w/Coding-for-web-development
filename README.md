@@ -14,9 +14,8 @@ to make this site work, please visit the website: https://www.gradle.org
 
 [![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)
 
-[![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)
+[![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)[![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
 
-[![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
 
 [![mips64le build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/mips64le/job/nextcloud.svg?label=mips64le)](https://doi-janky.infosiftr.net/job/multiarch/job/mips64le/job/nextcloud)
 [![ppc64le build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/ppc64le/job/nextcloud.svg?label=ppc64le)](https://doi-janky.infosiftr.net/job/multiarch/job/ppc64le/job/nextcloud)
