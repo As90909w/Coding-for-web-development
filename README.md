@@ -4,6 +4,14 @@ to make this site work, please visit the website: https://www.gradle.org
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-gh-pages.yml)
 
+[![update.sh build status badge](https://github.com/nextcloud/docker/workflows/update.sh/badge.svg)](https://github.com/nextcloud/docker/actions?query=workflow%3Aupdate.sh)
+[![amd64 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/amd64/job/nextcloud.svg?label=amd64)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/nextcloud)
+[![arm32v5 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/nextcloud.svg?label=arm32v5)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/nextcloud)
+[![arm32v6 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/nextcloud.svg?label=arm32v6)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/nextcloud)
+[![arm32v7 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v7/job/nextcloud.svg?label=arm32v7)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v7/job/nextcloud)
+[![arm64v8 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/nextcloud.svg?label=arm64v8)](https://doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/nextcloud)
+[![i386 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/i386/job/nextcloud.svg?label=i386)](https://doi-janky.infosiftr.net/job/multiarch/job/i386/job/nextcloud)
+
 [![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)
 
 [![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)
