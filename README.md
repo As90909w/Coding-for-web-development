@@ -10,7 +10,7 @@ to make this site work, please visit the website: https://www.gradle.org
 [![arm64v8 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/nextcloud.svg?label=arm64v8)](https://doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/nextcloud)
 [![i386 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/i386/job/nextcloud.svg?label=i386)](https://doi-janky.infosiftr.net/job/multiarch/job/i386/job/nextcloud)
 
-[![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)
+[![.github/workflows/azure-webapps-node.yml](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml/badge.svg?event=workflow_run)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/azure-webapps-node.yml)[![Codacy Security Scan](https://github.com/As90909w/Coding-for-web-development/actions/workflows/codacy.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/codacy.yml)
 
 [![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)[![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
 
