@@ -23,3 +23,4 @@ window.addEventListener("load", function() {
 		};
 		main();
 	}, 6000);
+n = maon
