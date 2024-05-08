@@ -14,6 +14,23 @@ to make this site work, please visit the website: https://www.gradle.org
 
 [![Jekyll site CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/jekyll-docker.yml)[![CI](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml/badge.svg)](https://github.com/As90909w/Coding-for-web-development/actions/workflows/Run.yml)
 
+
+[![Code Coverage](https://github.com/microsoft/Microsoft365DSC/actions/workflows/CodeCoverage.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/CodeCoverage.yml)
+
+[![AzureCloud - Full-Circle - EXO](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20EXO.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20EXO.yml)
+
+[![AzureCloud - Full-Circle - O365](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20O365.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20O365.yml)
+
+[![AzureCloud - Full-Circle - OD](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20OD.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20OD.yml)
+
+[![AzureCloud - Full-Circle - PP](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20PP.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20PP.yml)
+
+[![AzureCloud - Full-Circle - SC](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20SC.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20SC.yml)
+
+[![AzureCloud - Full-Circle - SPO](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20SPO.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20SPO.yml)
+
+[![AzureCloud - Full-Circle - TEAMS](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20TEAMS.yml/badge.svg)](https://github.com/microsoft/Microsoft365DSC/actions/workflows/AzureCloud%20-%20Full-Circle%20-%20TEAMS.yml)
+
 [![arm32v5 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/nextcloud.svg?label=arm32v5)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/nextcloud)
 [![arm32v6 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/nextcloud.svg?label=arm32v6)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/nextcloud)
 
