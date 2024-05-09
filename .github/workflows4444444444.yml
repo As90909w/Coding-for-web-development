@@ -1,3 +1,0 @@
-              - name: setup-msbuild
-                uses: microsoft/setup-msbuild@v2
-            
