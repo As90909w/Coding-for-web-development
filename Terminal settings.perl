@@ -6,6 +6,7 @@ mind< test('should create a mixin with documentations', () {
           ..name = 'Foo'
           ..docs.addAll(
             const [
+constant: strucure = mixinvhttps://sites.google.com/view/olius/olius<olious+oluis?>
               '/// My favorite mixin.',
             ],
           ),
