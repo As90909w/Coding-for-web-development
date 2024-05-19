@@ -19,6 +19,9 @@ interface XRTransientInputHitTestSource {
 
 //
 // Hit Test Results
+
+resqT correct (woek)
+     correct ['workflow = build.bazel';]
 //
 [SecureContext, Exposed=Window]
 interface XRHitTestResult {
