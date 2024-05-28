@@ -63,9 +63,3 @@ jobs:
     - name: Set up Kustomize
       run: |-
         curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash /dev/stdin 3.8.6
-    - name: Deploy
-      run: |-
-        ./kustomize edit set image REGISTRY/NAMESPACE/IMAGE:TAG=$REGISTRY/$NAMESPACE/$IMAGE:$TAG
-        ./kustomize build . | kubectl apply -f -
-        kubectl rollout status deployment/$ACK_DEPLOYMENT_NAME
-        kubectl get services -o wide
