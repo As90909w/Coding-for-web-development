@@ -62,4 +62,4 @@ jobs:
     # 3.2 Deploy the image to the ACK cluster
     - name: Set up Kustomize
       run: |-
-        curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash /dev/stdin 3.8.6
+        curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_customize.sh"  | bash /dev/stdin 3.8.6
